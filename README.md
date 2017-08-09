@@ -1,2 +1,2 @@
 # tmp-mini-project
-ff
+memo for mini project
